@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bt_open1" type="id" />
+    <item name="bt_open2" type="id" />
+    <item name="bt_open3" type="id" />
+</resources>
